@@ -6,7 +6,9 @@
   justify-content: space-between;
   align-items: center;
   padding: 0.5rem;
+  margin: 1rem;
   margin: 1rem 0;
+  /* width: 700px; */
   background-color: #4b4b4b;
 }
 
@@ -33,6 +35,7 @@
   font-weight: bold;
   color: white;
   background-color: #40005d;
+  /* width: 130px; */
   border: 1px solid white;
   padding: 0.5rem;
   border-radius: 12px;
